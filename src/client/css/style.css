@@ -1,0 +1,7 @@
+body {
+    color:blue;
+}
+
+div[class^="entry"]{
+    color: rgb(120, 248, 0);
+}
